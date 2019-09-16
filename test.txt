@@ -12,4 +12,13 @@
 
 6,git remote add origin https://github.com/no744634936/learngit.git
 
+7,git push -u origin master(往master分支上push)
+
+第二次往远程仓库里面push的时候就可以，这样了
+
+git add .
+git commit -m "....."
+git push
+
+
 
