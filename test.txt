@@ -21,4 +21,8 @@ git commit -m "....."
 git push
 
 
-获取更新的时候就要用 git pull origin master(获取origin 上面的master branch 的更新)
+8,获取更新的时候就要用 git pull origin master(获取origin 上面的master branch 的更新)
+
+9,新しいproject に参加するとき、まだproject のfileはない
+　github からすべてのfileをダウンロードるする。最初の一回しか使わない。
+  github clone "https://..................."
