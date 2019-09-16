@@ -1,0 +1,15 @@
+1,先在github上面建立一个repository。名字为learngit
+
+
+2,在桌面建立一个文件夹。 learngit
+
+
+3,learngit文件夹里添加文件。
+
+4,git add .
+
+5,git commit -m "......."
+
+6,git remote add origin https://github.com/no744634936/learngit.git
+
+
