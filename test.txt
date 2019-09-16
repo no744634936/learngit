@@ -21,4 +21,4 @@ git commit -m "....."
 git push
 
 
-
+获取更新的时候就要用 git pull origin master(获取origin 上面的master branch 的更新)
